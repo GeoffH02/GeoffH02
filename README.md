@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Geoffrey😎</h1>
-<h3 align="center">Looking for an Apprenticeship/Internship.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geoffh02&label=Profile%20views&color=0e75b6&style=flat" alt="geoffh02" /> </p>
 
