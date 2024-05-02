@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **at Epitech in MSC-PRO**
 
-- 💬 Ask me about **nodejs,mongodb,webpack**
-
 - 📫 How to reach me **geoffrey02@orange.fr**
 
 <h3 align="left">Connect with me:</h3>
